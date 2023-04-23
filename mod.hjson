@@ -1,0 +1,22 @@
+displayName: "Ultra Pixelate"
+
+repo: ApsZoldat/ultra-pixelate
+
+name: "ultra-pixelate"
+
+subtitle: "aka Shakaldustry"
+
+author: "ApsZoldat"
+
+main: "core.ModMain"
+
+description: "Mod allowing to modify pixelate filter scale (when you downloaded a bad iron ore mod and don't want your eyes to bleed)"
+
+version: 1.0
+
+minGameVersion: 140
+
+java: true
+
+hidden: true
+
