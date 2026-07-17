@@ -6,7 +6,7 @@ targetCompatibility = 8
 sourceCompatibility = JavaVersion.VERSION_16
 
 sourceSets.main {
-    java.srcDirs = ['src/main']
+    java.srcDirs = ['src/core']
     resources.srcDirs = ['assets']
 }
 
